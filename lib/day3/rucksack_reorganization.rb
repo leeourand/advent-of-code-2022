@@ -1,4 +1,3 @@
-require 'pry'
 class RucksackReorganization
   def initialize(rucksack_contents)
     @rucksack_contents = parse(rucksack_contents)
