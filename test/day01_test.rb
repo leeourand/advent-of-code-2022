@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/day1/calorie_counting'
+require_relative '../lib/day01/calorie_counting'
 
 class Day1Test < MiniTest::Test
   def test_finding_elf_with_most_calories

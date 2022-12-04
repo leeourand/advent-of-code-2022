@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/day2/rock_paper_scissors'
+require_relative '../lib/day02/rock_paper_scissors'
 
 class Day2Test < MiniTest::Test
   def test_building_elves_from_assumed_string

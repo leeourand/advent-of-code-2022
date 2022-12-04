@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/day4/camp_cleanup'
+require_relative '../lib/day04/camp_cleanup'
 
 class Day4Test < MiniTest::Test
   def test_finding_fully_contained_overlaps

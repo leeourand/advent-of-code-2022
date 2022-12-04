@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/day3/rucksack_reorganization'
+require_relative '../lib/day03/rucksack_reorganization'
 
 class Day3Test < MiniTest::Test
   def test_reorganizing_rucksacks
